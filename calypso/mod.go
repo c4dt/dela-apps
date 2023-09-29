@@ -1,8 +1,8 @@
 package calypso
 
 import (
-	"go.dedis.ch/dela/core/access"
-	"go.dedis.ch/dela/crypto"
+	"github.com/c4dt/dela/core/access"
+	"github.com/c4dt/dela/crypto"
 	"go.dedis.ch/kyber/v3"
 )
 

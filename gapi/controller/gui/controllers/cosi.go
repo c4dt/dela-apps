@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"go.dedis.ch/dela/core/txn/signed"
+	"github.com/c4dt/dela/core/txn/signed"
 )
 
 // Transaction handles the home page

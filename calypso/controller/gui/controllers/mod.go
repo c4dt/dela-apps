@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"go.dedis.ch/dela-apps/calypso"
+	"github.com/c4dt/dela-apps/calypso"
 	"go.dedis.ch/kyber/v3/suites"
 )
 
