@@ -3,8 +3,8 @@
 package gapi
 
 import (
-	"go.dedis.ch/dela/core/ordering/cosipbft"
-	"go.dedis.ch/dela/mino/minogrpc"
+	"github.com/c4dt/dela/core/ordering/cosipbft"
+	"github.com/c4dt/dela/mino/minogrpc"
 )
 
 // GAPI defines the Generic API. It offers global APIs to get the chain's state.

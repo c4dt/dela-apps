@@ -1,10 +1,10 @@
 package controller
 
 import (
-	"go.dedis.ch/dela"
-	"go.dedis.ch/dela/crypto"
-	"go.dedis.ch/dela/crypto/ed25519"
-	"go.dedis.ch/dela/mino"
+	"github.com/c4dt/dela"
+	"github.com/c4dt/dela/crypto"
+	"github.com/c4dt/dela/crypto/ed25519"
+	"github.com/c4dt/dela/mino"
 )
 
 // internalCA is the internal Collective Authority built from the CLI flags
