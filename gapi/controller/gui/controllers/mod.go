@@ -3,7 +3,7 @@ package controllers
 import (
 	"sync"
 
-	"github.com/c4dt/dela-apps/gapi"
+	"go.dedis.ch/dela-apps/gapi"
 )
 
 // NewCtrl creates a new Ctrl. It gets and stored the current folder path of

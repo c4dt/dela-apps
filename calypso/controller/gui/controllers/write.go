@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"text/template"
 
-	"github.com/c4dt/dela-apps/calypso/controller/gui/models"
+	"go.dedis.ch/dela-apps/calypso/controller/gui/models"
 )
 
 // WriteHandler handles the write requests
