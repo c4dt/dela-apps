@@ -7,13 +7,13 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/c4dt/dela-apps/calypso"
-	guictrl "github.com/c4dt/dela-apps/calypso/controller/gui/controllers"
-	"github.com/c4dt/dela/cli/node"
-	"github.com/c4dt/dela/crypto/ed25519"
-	"github.com/c4dt/dela/dkg"
-	"github.com/c4dt/dela/mino"
-	"github.com/c4dt/dela/mino/proxy"
+	"go.dedis.ch/dela-apps/calypso"
+	guictrl "go.dedis.ch/dela-apps/calypso/controller/gui/controllers"
+	"go.dedis.ch/dela/cli/node"
+	"go.dedis.ch/dela/crypto/ed25519"
+	"go.dedis.ch/dela/dkg"
+	"go.dedis.ch/dela/mino"
+	"go.dedis.ch/dela/mino/proxy"
 	"golang.org/x/xerrors"
 )
 

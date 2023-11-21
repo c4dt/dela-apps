@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/c4dt/dela/core/access"
+	"go.dedis.ch/dela/core/access"
 )
 
 // NewIdentity creates a new identity

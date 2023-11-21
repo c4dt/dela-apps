@@ -1,12 +1,12 @@
 package controller
 
 import (
-	"github.com/c4dt/dela-apps/gapi"
-	guictrl "github.com/c4dt/dela-apps/gapi/controller/gui/controllers"
-	"github.com/c4dt/dela/cli/node"
-	"github.com/c4dt/dela/core/ordering/cosipbft"
-	"github.com/c4dt/dela/mino/minogrpc"
-	"github.com/c4dt/dela/mino/proxy"
+	"go.dedis.ch/dela-apps/gapi"
+	guictrl "go.dedis.ch/dela-apps/gapi/controller/gui/controllers"
+	"go.dedis.ch/dela/cli/node"
+	"go.dedis.ch/dela/core/ordering/cosipbft"
+	"go.dedis.ch/dela/mino/minogrpc"
+	"go.dedis.ch/dela/mino/proxy"
 	"golang.org/x/xerrors"
 )
 

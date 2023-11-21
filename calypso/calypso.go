@@ -3,14 +3,14 @@ package calypso
 import (
 	"bytes"
 
-	"github.com/c4dt/dela/crypto"
-	"github.com/c4dt/dela/serde"
-	"github.com/c4dt/dela/serde/registry"
+	"go.dedis.ch/dela/crypto"
+	"go.dedis.ch/dela/serde"
+	"go.dedis.ch/dela/serde/registry"
 
-	"github.com/c4dt/dela-apps/calypso/storage"
-	"github.com/c4dt/dela-apps/calypso/storage/inmemory"
-	"github.com/c4dt/dela/core/access"
-	"github.com/c4dt/dela/dkg"
+	"go.dedis.ch/dela-apps/calypso/storage"
+	"go.dedis.ch/dela-apps/calypso/storage/inmemory"
+	"go.dedis.ch/dela/core/access"
+	"go.dedis.ch/dela/dkg"
 	"go.dedis.ch/kyber/v3"
 	"golang.org/x/xerrors"
 )

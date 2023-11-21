@@ -3,8 +3,8 @@ package json
 import (
 	"encoding/json"
 
-	"github.com/c4dt/dela-apps/calypso"
-	"github.com/c4dt/dela/serde"
+	"go.dedis.ch/dela-apps/calypso"
+	"go.dedis.ch/dela/serde"
 	"go.dedis.ch/kyber/v3/suites"
 	"golang.org/x/xerrors"
 )

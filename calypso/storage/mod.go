@@ -1,6 +1,6 @@
 package storage
 
-import "github.com/c4dt/dela/serde"
+import "go.dedis.ch/dela/serde"
 
 // KeyValue defines a simple key value storage
 type KeyValue interface {

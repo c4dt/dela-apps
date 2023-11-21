@@ -1,7 +1,7 @@
 package inmemory
 
 import (
-	"github.com/c4dt/dela/serde"
+	"go.dedis.ch/dela/serde"
 	"golang.org/x/xerrors"
 )
 

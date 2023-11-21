@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"text/template"
 
-	"github.com/c4dt/dela-apps/calypso/controller/gui/models"
-	"github.com/c4dt/dela/core/access"
+	"go.dedis.ch/dela-apps/calypso/controller/gui/models"
+	"go.dedis.ch/dela/core/access"
 )
 
 // ReadHandler handles the read requests
